@@ -176,6 +176,9 @@ Google play: https://play.google.com/store/apps/details?id=io.getcurrent.current
 
 Android APK: https://i.current.fyi/help/Current+App+v0.1.3-Alajuela.apk
 
+## Video Tutorial
+[Video Tutorial](https://flare.pub/w/naddr1qqrkcn28fdn5j5qzyp6m7g6nrt5lnrrzn9d6quv3ujyw44r4jafhr43a0h75d00ph75f2qcyqqqgtwcefdcdw)
+
 ## Support
 
 For support, email hello@getcurrent.io.
